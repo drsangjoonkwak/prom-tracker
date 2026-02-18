@@ -27,7 +27,7 @@ import {
 
 // *** [중요] Caprini 전용 Google Web App URL을 여기에 넣으세요 ***
 // 예: "https://script.google.com/macros/s/..."
-const GOOGLE_SCRIPT_URL = "https://docs.google.com/spreadsheets/d/1_XRQiy3HuFp_sVxjHGbr4bs150mdK9iGfm-vCBoBt-U/edit?usp=drive_link"; 
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycby73XjdGyURmJ1Qj_nuPskZU-534JHeMHT1j1PbHM2G2AHRBxNK8bUqHKx-apst2jCc9g/exec"; 
 
 // --- Constants ---
 
